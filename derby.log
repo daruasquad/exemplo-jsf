@@ -1,0 +1,14 @@
+Sat Jun 28 09:27:23 BRT 2014 : Apache Derby Servidor de Rede - 10.10.1.1 - (1458268) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Sat Jun 28 09:29:05 BRT 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0146-e271-beff-0000134767e0 
+on database directory /home/brunokarpo/Dropbox/workspace/Projetos_Java/lab-jsf-master/db with class loader WebAppClassLoader=1997107602@77097192 
+Loaded from file:/home/brunokarpo/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_60-b19
+user.dir=/home/brunokarpo/Dropbox/workspace/Projetos_Java/lab-jsf-master
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-29-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
